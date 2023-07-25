@@ -45,7 +45,7 @@ global.sig = 'https://instagram.com/lampu_philips267'
 global.sgh = 'https://github.com/BaraXD'
 global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
 global.sdc = 'https://t.me/BotzzMeeOFC'
-global.snh = 'https://nhentai.net/g/365296/'
+global.snh = ''
 
 /*============== PAYMENT ==============*/
 global.pdana = '083174508962'
@@ -56,18 +56,18 @@ global.ppulsa2 = '08979530736'
 global.psaweria = 'https://saweria.co/BaraXDz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nomorbot = '966551397508'
+global.nomorown = '966508206360'
+global.namebot = 'Rinchan'
+global.nameown = 'غومونريونغ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['966508206360'],
+  ['966508206360'],
+  ['966508206360'],
+  ['966508206360', 'ٍRinchan', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
